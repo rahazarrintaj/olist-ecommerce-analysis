@@ -1,0 +1,6 @@
+delay_condition,average_review_score,number_of_orders
+Early Delivery,4.295086194474149,87902
+On time,4.035546875,1280
+1-7 days,2.715059738816338,3599
+8-30 days,1.649734802121583,2451
+>30 days,2.0594512195121952,328
